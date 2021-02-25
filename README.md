@@ -1,6 +1,6 @@
 # guitar-hero-space
 
-It is a Guitar Hero like game, aiming to associate the
+It is a Guitar Hero like game developed by me and Ali Özkaya, aiming to associate the
 actions the player takes during gameplay with the
 background music.
 
